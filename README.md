@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Cwodrich-Undef
+- 👀 I’m interested in Java Programming, specifically robotics and cybersecurity oreiented.
+- 🌱 I’m currently learning Java.
+- 📫 You can reach me at ccwodrich@gmai.com
